@@ -76,7 +76,7 @@ export default {
               path: require("../assets/video/保密警示案例系列之四：变味的科研合作.mp4"),
             },
           ],
-          navList: [],  
+          navList: [],    
         },
         {
           name: "文本资料",
