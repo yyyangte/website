@@ -1,0 +1,90 @@
+.word {
+  width: 90%;
+  margin: 0 auto;
+}
+.word h3 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: 500;
+}
+.word div {
+  padding: 10px 0;
+  text-align: center;
+  color: #a6a3ae;
+}
+.word div span {
+  font-size: 16px;
+}
+.word div span:nth-of-type(1) {
+  padding-right: 20px;
+}
+.word h5 {
+  font-size: 24px;
+  font-weight: 500;
+  text-align: center;
+  padding: 20px 0;
+}
+.word h4 {
+  font-size: 24px;
+  font-weight: 500;
+  height: 45px;
+}
+.word p {
+  text-indent: 2em;
+  font-size: 18px;
+  font-weight: 300;
+  margin: 30px 0;
+  color: #3c201f;
+  line-height: 28px;
+}
+.word p span {
+  font-size: 20px;
+  font-weight: 500;
+}
+.word h6 {
+  text-align: right;
+  font-size: 18px;
+  color: #3c201f;
+  font-weight: 100;
+}
+.word2 {
+  width: 90%;
+  margin: 0 auto;
+}
+.word2 h1 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: 500;
+}
+.word2 h2 {
+  font-size: 24px;
+  font-weight: 500;
+  text-align: center;
+  padding: 20px 0;
+}
+.word2 h3 {
+  font-weight: 300;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 18px;
+}
+.word2 p {
+  text-indent: 2em;
+  font-size: 18px;
+  font-weight: 300;
+  margin: 30px 0;
+  color: #3c201f;
+  line-height: 28px;
+}
+.word2 p span {
+  padding-right: 7px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.word2 h6 {
+  text-align: right;
+  font-size: 18px;
+  color: #3c201f;
+  font-weight: 300;
+  height: 40px;
+}
